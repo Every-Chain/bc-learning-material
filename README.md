@@ -20,3 +20,4 @@ BlOCK-CHAIN-LEARNING-MATERIAL
 - [15、区块链笔记：关于Solidity的具体示例程序](./contents/15.md)
 - [16、区块链笔记：智能合约之合约调用方式，RPC/IPC调用，常用RPC调用框架，关于web3对象，基于Nodejs示例](./contents/16.md)
 - [17、区块链笔记：智能合约之合约继承和合约消息](./contents/17.md)
+- [18、区块链笔记：智能合约高级特性: 事件、接口、函数修改器](./contents/18.md)
