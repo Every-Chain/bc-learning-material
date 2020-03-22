@@ -23,3 +23,4 @@ BlOCK-CHAIN-LEARNING-MATERIAL
 - [18、区块链笔记：智能合约高级特性: 事件、接口、函数修改器](./contents/18.md)
 - [19、区块链笔记：关于ABI和分析ABI中的字段，关于Gas，Gas消耗计算，Gas消耗表](./contents/19.md)
 - [20、区块链笔记：DAPP的运行结构，环境准备，模板文件的选用，演示项目示例的运行](./contents/20.md)
+- [21、区块链笔记：商品管理示例：](./contents/21.md)
